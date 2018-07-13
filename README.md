@@ -1,0 +1,1 @@
+This is a collection of small files used to provide examples for my tutoring students.  This content is not currently well organized, instead coming from the scraps of Jupyter notebooks and other test cases not orginally intended for public review. 
